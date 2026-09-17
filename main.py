@@ -1,2 +1,7 @@
 name = input("Enter your name: ")
 print("hello",name)
+age = input("Enter your age: ")
+print("You are",age,"years old.")
+color = input("Enter your favorite color: ")
+print("Your favorite color is",color)
+print(name, "you are", age, "years old and your favorite color is", color)
